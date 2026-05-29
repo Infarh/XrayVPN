@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Автор автоматических скриптов настройки: Александр Платоненков (https://github.com/Platonenkov)
+# https://gist.github.com/Platonenkov/b3c556e15edecc1c3a624d9a048ed903
+
 # ============================================================
 # Полная автоматическая настройка Xray VPN (VLESS Reality)
 # Запускать на чистом VPS Ubuntu 24.04+ под root
